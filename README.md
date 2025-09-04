@@ -80,3 +80,17 @@ Each task focuses on a specific concept (variables, loops, functions, file I/O, 
 ### 9. Basic CSV Stats (No Pandas)
 - **Concepts:** file I/O, string splitting, dictionaries  
 - Read a CSV file named `expenses.csv` in the form:  
+
+
+# Task 10 – Text-Based Maze Navigator
+
+## 📝 Description
+This task is a **text-based maze game** where the player navigates through rooms modeled as a dictionary.  
+The objective is to reach the `"treasure room"` starting from the `"entrance"` by typing commands.
+
+## 🎯 Concepts Practiced
+- Nested dictionaries  
+- Loops (`while`)  
+- Functions for handling commands  
+- Basic text-based game design  
+
